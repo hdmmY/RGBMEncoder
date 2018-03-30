@@ -1,4 +1,7 @@
-﻿Shader "Custom/Sample" 
+﻿// Ref : http://graphicrants.blogspot.com.br/2009/04/rgbm-color-encoding.html
+
+
+Shader "Custom/Sample" 
 {
     CGINCLUDE
 
